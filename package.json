@@ -4,11 +4,12 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "markdown-to-html": "0.0.13"
+    "markdown-to-html": "0.0.13",
+    "roboto-fontface": "^0.6.0"
   },
   "devDependencies": {},
   "scripts": {
-    "preview": "markdownb ./src/cv.md"
+    "preview": "markdownb ./src/cv.md  --stylesheet ./src/styles.css"
   },
   "repository": {
     "type": "git",
