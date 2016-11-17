@@ -130,4 +130,30 @@ Prior work in application support, graphic design and people management also con
 * Working closely alongside SQL developers in order to aggregate and display critical business data
 * Application Lifecycle Management with TFS2013 and Continuous Integration with Octopus Deploy
 
-###### *Further history available upon request*
+#### British Library, Boston Spa – Senior Software Engineer
+##### *April 2013 – October 2013*
+
+* Test-driven, C# development using MSTest and Moq
+* Writing and deploying workflow-based Windows services, web services and desktop applications
+* Harnessing MSMQ for delivering reliable, scalable enterprise systems
+* Rewriting disparate Windows Forms service management tools as a unified WPF program
+* Advocating and implementing new, but stable technologies to keep the codebase optimal
+* Using Atlassian's Jira and Bamboo for issue tracking and continuous integration
+
+#### British Library, Boston Spa – Application Specialist/Software Engineer
+##### *June 2012 – April 2013*
+
+* Developing C# apps using WPF, ASP.net MVC, WinForms, WCF, MSMQ and Entity Framework
+* Writing reusable PowerShell scripts for the benefit of the Technical Services team
+* Fixing bugs by checking logs and cross-referencing stack traces with source code
+* Using System Centre Operations Manager to monitor and pro-actively maintain the DLS
+* Configuring and deploying applications to VMs running Windows Server 2003 – 2012
+
+#### Reapit, Leeds – Application Support Team Leader
+##### *February 2011 – May 2012*
+
+* Managing workloads and providing assistance for a team of five (excluding myself)
+* Developing custom reports and extensions using C#, T-SQL, XAML and FoxPro
+* Delivering first-class customer services to a large and growing client base
+* Providing technical support for bespoke applications based on the Microsoft and LAMP stacks
+* Writing technical documentation and user guides for internal use and client reference
