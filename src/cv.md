@@ -57,6 +57,9 @@ Prior work in application support, graphic design and people management also con
 #### Sky, Leeds – Full-Stack Developer
 ##### *July 2016 – Present*
 
+_Web framework and component development using ES6, babel_
+_Rewriting node services in Elixir for performance and stability_
+
 * Creating reusable, stateless UI components with React and ES6
 * Using Redux and Sagas to manage application state and asynchronous calls
 * Developing comprehensive UI tests with Jest and Enzyme
@@ -67,6 +70,8 @@ Prior work in application support, graphic design and people management also con
 
 #### Piksel, York – Full-Stack Developer
 #####  *February 2016 – June 2016*
+
+_Web app rewrite and enhancement using Angular 1.5, LESS and node_
 
 * Refactoring a proof-of-concept app into a solid, extendable, white-label application
 * Adding unit test coverage using ng-mocks, Jasmine, Karma and Istanbul
@@ -79,6 +84,8 @@ Prior work in application support, graphic design and people management also con
 #### William Hill, Leeds – Front-End Developer
 ##### *November 2015 – January 2016*
 
+_Front-end Chrome app development using Angular, React and SASS_
+
 * Using React and elements of the Flux architectural pattern to create composable UI elements
 * Utilising pure functions and immutability where possible for referential transparency and testability
 * Using Jasmine and React Test Tools to provide complete coverage of React components
@@ -89,8 +96,9 @@ Prior work in application support, graphic design and people management also con
 #### Betfred, Gibraltar – Lead Full-Stack Developer
 ##### *December 2014 – November 2015*
 
-* Designing and implementing the front-end platform for the new totesport.com website using
-     Angular, gulp, bower, Bootstrap and SASS
+_Greenfield front-end overhaul of totesport.com, a huge, high-traffic gaming website_
+
+* Designing and implementing the front-end platform for the new totesport.com website using Angular and Bootstrap
 * Architecting and writing .net APIs for use throughout the company’s digital platform
 * Detailing best-practices to create a clean and consistent code-base
 * Retro-fitting unit (Karma/Jasmine) and end-to-end tests (Protractor) into a test-less project
@@ -100,6 +108,9 @@ Prior work in application support, graphic design and people management also con
 
 #### Penrillian, Penrith – JavaScript Developer
 ##### *November 2014 – December 2014*
+
+_Test-driven, responsive web development with Angular and node_
+_Investigative RFI work using PhoneGap/Cordova and Ionic Framework_
 
 * Building a first-class, customer-facing, single page application for a large telecoms company
 * Writing Jasmine and Protractor tests for both unit testing and end-to-end testing
@@ -112,7 +123,8 @@ Prior work in application support, graphic design and people management also con
 #### Gamestec, Leeds – Lead Developer
 ##### *June 2014 – November 2014*
 
-* Orchestrating a team of highly-experienced .net developers as part of a huge legacy migration project
+_Orchestrating a team of experienced .net developers as part of a huge legacy migration project_
+
 * Creating code standards, guidelines and procedures for the development team
 * Replacing a 500+ class Data Access Layer using DDD concepts and EF6 Fluent Code-First
 * Adding dependency injection throughout the solution using Ninject and the Ninject.Conventions module
@@ -123,7 +135,8 @@ Prior work in application support, graphic design and people management also con
 #### Jet2, Leeds – BI Applications Developer
 ##### *November 2013 – May 2014*
 
-* Creating rich client applications using MVC/MVVM patterns with ASP.net MVC, Bootstrap & Angular
+_Creating rich client applications using ASP.net and AngularJS in order to replace legacy Silverlight apps_
+
 * Developing WebAPI-based micro-services for consumption throughout the business
 * Rapid application development with LightSwitch HTML Client for Visual Studio 2013
 * Designing intuitive user interfaces and dashboards for use by the company’s Business Analysts
