@@ -35,19 +35,19 @@ Prior work in application support, graphic design and people management also con
 
 ### Skills
 
-* Teamwork
+* __Teamwork__
   : Leading and working as part of kanban and scrum teams. Advocate of pair-programming and mentoring
 
-* Front-End
+* __Front-End__
   : Creating responsive sites and progressive web applications, using a mobile-first approach
 
-* Back-End
+* __Back-End__
   : Building REST services and APIs. Using persistence technologies including SQL Server, Postgres, ETS and Mongo
 
-* Practices
+* __Practices__
   : Adopting and embracing lean and agile methodologies. Using Test Driven Development to ensure the solutions delivered meet the requirements
 
-* Tooling
+* __Tooling__
   : Continuous deployment using tools such as Github, CircleCI, Heroku and AWS
 
 ------
