@@ -24,7 +24,7 @@ Prior work in application support, graphic design and people management also con
 * JavaScript, React, Node
 * HTML, Pug/Jade, JSX
 * CSS, Sass, PostCSS
-* Elixir, Phoenix
+* Elixir, Phoenix, Erlang
 * Postgres, SQL Server, Mongo
 * NPM, Babel, Webpack
 * Git, Github, Gitlab
