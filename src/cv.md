@@ -81,6 +81,16 @@ I received this award as part of a national competition for innovation in print 
 
 ### Experience
 
+#### Full-Stack Developer at HolidayCheck
+##### February 2017 – Present
+
+Node and React development for the largest German website that provides traveller reviews and package holiday offers.
+
+- Enhancing the HolidayCheck estate with new React components in a highly customer-driven company
+- Writing node endpoints to replace the legacy php backend
+- Harnessing data and business intelligence from sister companies across Europe
+- Using hackdays and out-of-hours work to turn concepts into revenue-generating production code
+
 #### Full-Stack Developer at Sky
 ##### July 2016 – January 2017
 
