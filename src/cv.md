@@ -41,19 +41,14 @@ Here are some of the technologies that I am proficient with and have been using 
   - Node.js
   - React
   - Elixir
-
-
   - HTML
   - Bootstrap
   - Sass
   - Git
-
-
   - PostgreSQL
   - Mongo
   - Babel
   - Webpack
-
 
 ------
 
@@ -87,7 +82,7 @@ I received this award as part of a national competition for innovation in print 
 ### Experience
 
 #### Full-Stack Developer at Sky
-##### July 2016 – Present
+##### July 2016 – January 2017
 
 React component development for the in-house framework used by the entire sky.com estate. This involved multi-variant testing and user journey analytics to drive customer engagement for a site which receives over 50 million page views per month. I was also involved in rewriting Node.js micro-services in Elixir for large performance gains and in turn, improved user experience.
 
