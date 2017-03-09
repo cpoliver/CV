@@ -81,7 +81,7 @@ I received this award as part of a national competition for innovation in print 
 
 ### Experience
 
-#### Full-Stack Developer at HolidayCheck
+#### Full-Stack Developer at HolidayCheck – Bottighofen, Switzerland
 ##### February 2017 – Present
 
 Node and React development for the largest German website that provides traveller reviews and package holiday offers.
@@ -91,7 +91,7 @@ Node and React development for the largest German website that provides travelle
 - Harnessing data and business intelligence from sister companies across Europe
 - Using hackdays and out-of-hours work to turn concepts into revenue-generating production code
 
-#### Full-Stack Developer at Sky
+#### Full-Stack Developer at Sky – Leeds, United Kingdom
 ##### July 2016 – January 2017
 
 React component development for the in-house framework used by the entire sky.com estate. This involved multi-variant testing and user journey analytics to drive customer engagement for a site which receives over 50 million page views per month. I was also involved in rewriting Node.js micro-services in Elixir for large performance gains and in turn, improved user experience.
@@ -101,7 +101,7 @@ React component development for the in-house framework used by the entire sky.co
 - Integrating A/B testing and conversion tracking throughout the tech stack using Sixpack and Optimizely
 - Interfacing with New Relic and Adobe Analytics for tracking page metrics and engagement opportunities
 
-#### Full-Stack Developer at Piksel
+#### Full-Stack Developer at Piksel – York, United Kingdom
 #####  February 2016 – June 2016
 
 Turning a proof-of-concept media management application into an extensible white-label product to be sold to the company's clients. Introducing proper software architecture to allow more developers to collaborate on the rewrite without duplicating effort or mixing concerns.
@@ -111,7 +111,7 @@ Turning a proof-of-concept media management application into an extensible white
 - Working as part of an Agile team split between UK, Spain and Italy
 - Creating in-line, "living" documentation using ng-docs and dgeni
 
-#### Front-End Developer at William Hill
+#### Front-End Developer at William Hill – Leeds, United Kingdom
 ##### November 2015 – January 2016
 
 Chrome app development for the company's own self-service betting terminals. The project launched on-time and successfully, with the SSBTs being rolled out from an initial single shop to over 2,500 branches nationwide.
@@ -121,7 +121,7 @@ Chrome app development for the company's own self-service betting terminals. The
 - Creating satisfying, yet performance-conscious interfaces for use on low-spec ARM processors
 - Working with WebSockets for bidirectional, real-time updates
 
-#### Lead Developer at Betfred
+#### Lead Developer at Betfred – Gibraltar
 ##### December 2014 – November 2015
 
 Designing and implementing the front-end platform for the totesport.com relaunch using AngularJS. The initial replacement for the high-traffic gaming website was successfully delivered within the 3 month deadline, in order to comply with contractual obligations.
@@ -131,7 +131,7 @@ Designing and implementing the front-end platform for the totesport.com relaunch
 - Mentoring junior developers, familiarising them with various areas of development and testing
 - Introducing ES6 syntax and language features, and updating linting rules to impose this
 
-#### JavaScript Developer at Penrillian
+#### JavaScript Developer at Penrillian – Cumbria, United Kingdom
 ##### November 2014 – December 2014
 
 Test-driven, responsive web development with Angular and node
@@ -144,7 +144,7 @@ Building an e-commerce single page application for a telecoms startup using test
 - Using my C# experience to help convey the nuances of JavaScript to Java developers with little front-end or Node.js experience
 - Investigating hybrid mobile application development with Ionic framework and Cordova
 
-#### Lead Developer at Gamestec
+#### Lead Developer at Gamestec – Leeds, United Kingdom
 ##### June 2014 – November 2014
 
 Orchestrating a team of highly experienced .net developers. Streamlining a collection of disparate programs and processes into a unified web platform. Business logic had to be derived from spreadsheets, legacy DOS and Java applications, and staff following manual processes.
@@ -154,7 +154,7 @@ Orchestrating a team of highly experienced .net developers. Streamlining a colle
 - Implementing continuous integration and deployment with Git, TFS 2013 and Octopus Deploy
 - Liaising with various senior staff members throughout the business to build a set of requirements for the new system
 
-#### BI Applications Developer at Jet2
+#### BI Applications Developer at Jet2 – Leeds, United Kingdom
 ##### November 2013 – May 2014
 
 Creating rich client applications using Silverlight, ASP.net MVC/WebAPI and JavaScript. Using business intelligence data to predict patterns in user behaviour and drive conversions.
