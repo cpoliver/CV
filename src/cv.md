@@ -2,7 +2,8 @@
 ## Full-Stack Developer
 
 - [charles@cocoa.consulting](mailto:charles@cocoa.consulting)
-- [www.cpoliver.com](http://www.cpoliver.com)
+- [cpoliver.com](http://www.cpoliver.com)
+- [linkedin.com/in/cpoliver](https://www.linkedin.com/in/cpoliver)
 - +44 7957 XXX XXX
 
 ------
