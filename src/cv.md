@@ -89,7 +89,7 @@ Node and React development for the largest German website that provides travelle
 
 - Enhancing the HolidayCheck estate with new React components in a highly customer-driven company
 - Writing node endpoints to replace the legacy php backend
-- Harnessing with power of functional composition with Ramda
+- Harnessing the power of functional composition with Ramda
 - Using hackdays and out-of-hours work to turn concepts into revenue-generating production code
 
 #### Full-Stack Developer at Sky – Leeds, United Kingdom
